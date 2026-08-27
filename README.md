@@ -1,5 +1,5 @@
 # MLB
-MLB
+MLB data files
 
 Files contained are as follows:
 
